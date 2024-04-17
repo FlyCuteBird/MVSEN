@@ -13,7 +13,7 @@ If you don't want to train from scratch, you can download the pre-trained model 
 i2t: 503.0
 Image to text: 77.8  93.3  97.2
 Text to image: 59.2  85.0  90.5
-t2i: 497.9
+t2i: 511.3
 Image to text: 79.5  94.6 97.7
 Text to image: 61.2  86.6  91.7
 ```
