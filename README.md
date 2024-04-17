@@ -18,7 +18,7 @@ Image to text: 79.5  94.6 97.7
 Text to image: 61.2  86.6  91.7
 ```
 ## Download Data 
-We utilize the image feature created by SCAN, downloaded [here](https://github.com/kuanghuei/SCAN). Some related text data can be found [here](https://drive.google.com/drive/folders/1y55ccAlmoT7VSnNzLBYLPI-oYNRKX--K?usp=drive_link).
+We utilize the image feature created by SCAN, downloaded [here](https://github.com/kuanghuei/SCAN). Some related text data can be found [here](https://drive.google.com/drive/folders/1leWj6z0dufOedT7EBkijv1PWoIT0K0Go?usp=drive_link).
 
 ```
 # Train on Flickr30K
